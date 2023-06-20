@@ -85,7 +85,7 @@ class DashboardAdmin extends Component {
                 <li>
                   <Link to="/admin/role">
                     <FontAwesomeIcon icon={faUsers} className="sidebar-icon" /> 
-                    Role 
+                    Employee 
                   </Link> 
                 </li>
                 <li>
